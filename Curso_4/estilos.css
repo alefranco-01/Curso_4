@@ -1,0 +1,34 @@
+div {
+    display: inline-block;
+
+}
+
+#cantproductos, #total {
+
+    border: 2px solid black;
+    text-align: center;
+    width: 4em;
+    font-weight: bold;
+    font-size: 1em;
+    background-color: rgb(255, 230, 139);
+    margin-bottom: 5px;
+}
+
+th {
+    border: 1px solid black;
+    width: 10em;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+table {
+
+    border: 3px solid black;
+    width: auto;
+}
+
+tbody {
+
+    text-align: center;
+}
